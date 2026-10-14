@@ -3,7 +3,8 @@
     "allow": [
       "Shell(git commit -F - <<'EOF' Add MCP basics docs EOF)",
       "powershell",
-      "Shell(git:*)"
+      "Shell(git:*)",
+      "Shell(echo:*)"
     ],
     "deny": [],
     "defaultMode": "default"

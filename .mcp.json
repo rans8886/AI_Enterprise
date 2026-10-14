@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "testcreator": {
+      "command": "uv",
+      "args": ["run", "--directory", "005_MCP_Create_Vibe", "testcreator-mcp"]
+    }
+  }
+}

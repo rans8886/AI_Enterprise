@@ -1,0 +1,17 @@
+# Generated index - rebuild with `uv run testcreator-build-index`
+data/*.db
+data/*.db-journal
+
+# Virtualenv / build artifacts
+.venv/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+
+# Test / tooling caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
